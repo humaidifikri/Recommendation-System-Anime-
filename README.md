@@ -1,4 +1,4 @@
-﻿# Laporan Proyek Akhir: Sistem Rekomendasi - Humaidi Fikri
+﻿# Sistem Rekomendasi - Humaidi Fikri
 ## Domain Proyek
 Anime adalah sebuah  jenis animasi khas Jepang yang biasanya menggunakan gambar-gambar berwarna-warni untuk menggambarkan tokoh-tokoh dalam berbagai macam cerita dan latar belakang. Anime dapat digambar dengan tangan atau menggunakan teknologi komputer dan dipengaruhi oleh gaya gambar manga, komik khas Jepang. Anime dapat berbentuk serial TV, film, atau OVA (Original Video Animation) dan memiliki beragam genre, seperti fantasi, aksi, petualangan, romantis, dan horor[1]. Seiring berjalannya waktu jumlah anime dari tahun ke tahun mengalami peningkatan dratis dan menjadi sangat populer akhir-akhir ini di Indonesia. Banyak situs/aplikasi online untuk menonton anime online namun, terlalu banyak anime menjadikan penonton lebih banyak menghabiskan waktunya untuk mencari anime dari pada menontonnya. 
 
